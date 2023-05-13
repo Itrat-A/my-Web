@@ -1,0 +1,199 @@
+/* Global styles */
+
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+  }
+  
+
+  .background-image {
+    background-image: url('C:\Users\itrat\OneDrive\Desktop\assignment\images\bg.jpg');
+  }
+
+
+  a {
+    color: #47545a;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+  
+  /* Navigation bar styles */
+  
+  .navbar {
+    background-color: #aeceec;
+    color: #fff;
+    
+  }
+  
+  .navbar-brand {
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    
+  }
+  
+  .navbar-nav li {
+    margin-right: 10px;
+  }
+  
+  .navbar-nav li:last-child {
+    margin-right: 0;
+  }
+  
+  .navbar-nav li a {
+    color: #fff;
+    font-size: 18px;
+  }
+  
+ 
+
+  
+  
+  
+  /* Home page styles */
+  
+  .jumbotron {
+    background-image: url('https://png.pngtree.com/background/20210709/original/pngtree-full-white-technology-blue-square-background-picture-image_962379.jpg');
+    background-size: cover;
+    
+    padding-top: 30px;
+    padding-bottom: 0px;
+    text-align: center;
+  }
+  
+  .jumbotron h1 {
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    
+  }
+  
+  .jumbotron p {
+    font-size: 18px;
+    
+    
+  }
+  
+  /* About page styles */
+  
+  .about {
+    margin-top: 50px;
+   
+  }
+  
+  .about h2 {
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .about p {
+    font-size: 18px;
+    
+    margin-bottom: 30px;
+  }
+  
+  .about img {
+    max-width: 100%;
+    margin-bottom: 30px;
+  }
+  
+  /* Programs page styles */
+  
+  .programs-section {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  
+  .programs-section h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .container {
+    margin-bottom: 30px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .container img {
+    max-width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .container h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .container p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  /* Contact page styles */
+  
+  .contact-section {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  
+  .contact-section h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .contact-form {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .contact-form .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .contact-form label {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .contact-form input,
+  .contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+  }
+
+  
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px; 
+    text-align: center;
+  }
+
+  footer a {
+    color: #fff; 
+    text-decoration: none;
+  }
+  
+  footer a:hover {  
+    color: #ccc;
+  }
+  
